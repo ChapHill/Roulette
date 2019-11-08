@@ -1,4 +1,4 @@
-#Roulette
+# Roulette
 
 As a gaming enthusiast, I have always loved the thrill of being able to win money with the combination of chance/skill/mathematics. 
 Roulette is my favorite as it requires the least understanding for one to play. 
